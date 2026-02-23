@@ -1,0 +1,9 @@
+# Security & Environments (절대 깃허브에 올라가면 안 되는 파일)
+.env
+
+# Python Cache (파이썬 찌꺼기 파일들)
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints (주피터 임시 저장 파일들)
+.ipynb_checkpoints/
