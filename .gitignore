@@ -7,3 +7,9 @@ __pycache__/
 
 # Jupyter Notebook Checkpoints (주피터 임시 저장 파일들)
 .ipynb_checkpoints/
+
+# CSV 파일들
+*.csv
+
+# log 파일
+access_log_Jul95
